@@ -14,7 +14,7 @@
 
   --background_color: #000;
 
-  --background_image: url("../img/wallpaper.png");
+  --background_image: url("../img/wallpaper.gif");
 
   /* You can change the frame thickness and color of the picture by typing the number of pixels and the color code. */
 
@@ -421,5 +421,8 @@ main {
     width: 92vw;
 
   }
+
+
+
 
 }
