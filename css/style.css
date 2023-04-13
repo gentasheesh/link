@@ -14,19 +14,19 @@
 
   --background_color: #000;
 
-  --background_image: url("../img/wallpaper.gif");
+  --background_image: url("/img/wallpaper.gif");
 
   /* You can change the frame thickness and color of the picture by typing the number of pixels and the color code. */
 
   --image_border_color: #1f232e;
 
-  --image_border_px: 3px;
+  --image_border_px: 20px;
 
   /* You can change the width and size of the picture by typing the number of pixels. */
 
-  --image_width: 140px;
+  --image_width: 200px;
 
-  --image_height: 140px;
+  --image_height: 200px;
 
   /* You can change the colors of the title and description section by typing the color codes. */
 
