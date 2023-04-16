@@ -84,7 +84,7 @@ body {
 
   background: var(--background_color) var(--background_image) no-repeat center;
 
-  min-height: 100vh;
+  min-height: 50vh;
 
   display: flex;
 
